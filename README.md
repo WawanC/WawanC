@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kurniawan Cristianto</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
+- 💻 Currently working as web apps developer at [Goldstep Indonesia](https://goldstep.co.id/)
+   
 - 👨‍💻 All of my projects are available at [https://kurniawanc.com](https://kurniawanc.com)
 
 - 📝 I regularly write articles on [https://medium.com/@kurniawanc](https://medium.com/@kurniawanc)
