@@ -18,5 +18,3 @@
 <hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wawanc&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="wawanc" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=WawanC&theme=iceberg)](https://git.io/streak-stats)
