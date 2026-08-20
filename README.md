@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kurniawan Cristianto</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
-- 💻 Currently working as web apps developer at [Goldstep Indonesia](https://goldstep.co.id/)
+- 💻 Currently working as backend developer at [Astra International](https://astra.co.id/)
    
 - 👨‍💻 All of my projects are available at [https://kurniawanc.com](https://kurniawanc.com)
 
