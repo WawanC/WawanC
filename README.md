@@ -2,10 +2,6 @@
 <h3 align="center">Fullstack Web Developer</h3>
 
 - 💻 Currently working as backend developer at [Astra International](https://astra.co.id/)
-   
-- 👨‍💻 All of my projects are available at [https://kurniawanc.com](https://kurniawanc.com)
-
-- 📝 I regularly write articles on [https://medium.com/@kurniawanc](https://medium.com/@kurniawanc)
 
 - 📫 How to reach me **kurniawancristianto@gmail.com**
 
